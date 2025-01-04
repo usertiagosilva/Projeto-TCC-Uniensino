@@ -55,3 +55,9 @@ Certifique-se de ter os seguintes itens instalados no seu ambiente:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/bpa-express.git
+
+---
+
+   <p align="center">
+   Desenvolvido por Tiago Silva e Guilherme Augusto(https://github.com/usertiagosilva)
+    </p>
