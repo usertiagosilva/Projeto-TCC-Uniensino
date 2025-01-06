@@ -1,8 +1,9 @@
 # BPA EXPRESS - Plataforma de Gestão de Transportes Logísticos
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x200?text=BPA+EXPRESS+LOGO" alt="BPA EXPRESS Logo" width="400">
-</p>
+
+  ![bpa-logo](https://github.com/user-attachments/assets/42b969b9-ad73-44dc-9241-fd76f941819d)
+
+
 
 ## 🚚 Sobre o Projeto
 
@@ -59,5 +60,5 @@ Certifique-se de ter os seguintes itens instalados no seu ambiente:
 ---
 
    <p align="center">
-   Desenvolvido por Tiago Silva e Guilherme Augusto(https://github.com/usertiagosilva)
+   Desenvolvido por Tiago Silva(https://github.com/usertiagosilva) e Guilherme Augusto(https://github.com/usertiagosilva)
     </p>
