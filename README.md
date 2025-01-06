@@ -68,5 +68,5 @@ Acesse o projeto online: [BPA EXPRESS - Sistema de Gestão Logística](https://w
 
 
    <p align="center">
-   Desenvolvido por Tiago Silva(https://github.com/usertiagosilva) e Guilherme Augusto(https://github.com/usertiagosilva)
+   Desenvolvido por Tiago Silva(https://github.com/usertiagosilva) e Guilherme Augusto(https://github.com/guilhermeA1994)
     </p>
