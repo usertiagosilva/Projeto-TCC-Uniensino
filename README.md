@@ -59,6 +59,14 @@ Certifique-se de ter os seguintes itens instalados no seu ambiente:
 
 ---
 
+## 🌐 Link do Deploy
+
+Acesse o projeto online: [BPA EXPRESS - Sistema de Gestão Logística](https://www.bpa-express.wuaze.com/)
+
+---
+
+
+
    <p align="center">
    Desenvolvido por Tiago Silva(https://github.com/usertiagosilva) e Guilherme Augusto(https://github.com/usertiagosilva)
     </p>
